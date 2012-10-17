@@ -132,7 +132,7 @@ textarea {
 }
 body {
   margin: 0;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Palatino, Georgia, "Times New Roman", Times, serif;
   font-size: 15px;
   line-height: 24px;
   color: #222222;
@@ -322,7 +322,7 @@ a:hover {
 }
 p {
   margin: 0 0 12px;
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Palatino, Georgia, "Times New Roman", Times, serif;
   font-size: 15px;
   line-height: 24px;
 }
@@ -606,7 +606,7 @@ input,
 button,
 select,
 textarea {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: Palatino, Georgia, "Times New Roman", Times, serif;
 }
 label {
   display: block;
