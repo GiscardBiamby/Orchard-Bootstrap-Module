@@ -135,7 +135,7 @@ body {
   font-family: Palatino, Georgia, "Times New Roman", Times, serif;
   font-size: 15px;
   line-height: 24px;
-  color: #222222;
+  color: #4d4d4d;
   background-color: #ffffff;
 }
 a {
@@ -143,7 +143,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #fe2e9a;
+  color: #00aee4;
   text-decoration: underline;
 }
 .row {
@@ -2789,8 +2789,8 @@ input[type="submit"].btn.btn-mini {
 }
 .nav-tabs .dropdown-toggle:hover .caret,
 .nav-pills .dropdown-toggle:hover .caret {
-  border-top-color: #fe2e9a;
-  border-bottom-color: #fe2e9a;
+  border-top-color: #00aee4;
+  border-bottom-color: #00aee4;
 }
 .nav-tabs .active .dropdown-toggle .caret,
 .nav-pills .active .dropdown-toggle .caret {

@@ -12,6 +12,7 @@
 @black:                 #000;
 @grayDarker:            #222;
 @grayDark:              #333;
+@grayMediumDark:        lighten(@grayDark,10%);
 @gray:                  #555;
 @grayLight:             #999;
 @grayLighter:           #eee;
@@ -32,14 +33,15 @@
 
 // Scaffolding
 // -------------------------
-@bodyBackground:        @white;
-@textColor:             @grayDarker;
+@bodyBackground:        lighten(@grayLighter,8%);
+@textColor:             @grayMediumDark;
 
 
 // Links
 // -------------------------
 // Lighter pink: 
-@linkPink:             #FE2E9A;
+//@linkPink:             #FE2E9A;
+@linkPink:              #00AEE4;
 // Darker pink from that mercurial expert's blog: 
 //@linkPink:				#E50053;
 @iconColor:				lighten(@linkPink, 10%); 
