@@ -3,8 +3,11 @@ AntiForgery: enabled
 Author: Giscard Biamby
 Website: http://orchardproject.net
 Version: 1.0
-OrchardVersion: 1.0
+OrchardVersion: 1.4
 Description: Description for the module
+FeatureDescription: Foo
+Dependencies: 
+Category: Content
 Features:
     TheMonarch.bootstrap:
         Description: Description for feature TheMonarch.bootstrap.
