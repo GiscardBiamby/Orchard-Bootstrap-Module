@@ -5,7 +5,7 @@ Website: http://orchardproject.net
 Version: 1.0
 OrchardVersion: 1.4
 Description: Description for the module
-FeatureDescription: Foo
+FeatureDescription: Foo, blah
 Dependencies: 
 Category: Content
 Features:
