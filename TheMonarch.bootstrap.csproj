@@ -78,6 +78,9 @@
     <Content Include="Styles\bootstrap\less\bootstrap.css">
       <DependentUpon>bootstrap.less</DependentUpon>
     </Content>
+    <Content Include="Styles\bootstrap\less\bootstrap.min.css">
+      <DependentUpon>bootstrap.less</DependentUpon>
+    </Content>
     <Content Include="Styles\bootstrap\less\font-awesome.css">
       <DependentUpon>font-awesome.less</DependentUpon>
     </Content>
@@ -120,7 +123,7 @@
     </None>
     <None Include="Styles\bootstrap\less\bootstrap.less">
       <Compile>True</Compile>
-      <Minify>False</Minify>
+      <Minify>True</Minify>
     </None>
     <None Include="Styles\bootstrap\less\breadcrumbs.less">
       <Compile>False</Compile>
@@ -251,10 +254,10 @@
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
-    <None Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.eot" />
-    <None Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.svgz" />
-    <None Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.ttf" />
-    <None Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.woff" />
+    <Content Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.eot" />
+    <Content Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.svgz" />
+    <Content Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.ttf" />
+    <Content Include="Styles\bootstrap\font-awesome\font\fontawesome-webfont.woff" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
