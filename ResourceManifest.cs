@@ -54,6 +54,9 @@ namespace TheMonarch.bootstrap {
                 .SetDependencies("Monarch.Bootstrap");
             manifest.DefineStyle("Monarch.Custom")
                 .SetUrl(ModuleStyle("bootstrap/less/custom.min.css"), ModuleStyle("bootstrap/less/custom.css"));
+            manifest.DefineStyle("Monarch.Custom.Responsive")
+                .SetDependencies("Monarch.Custom")
+                .SetUrl(ModuleStyle("bootstrap/less/custom.responsive.min.css"), ModuleStyle("bootstrap/less/custom.responsive.css"));
 
 
             // Scripts 
