@@ -77,6 +77,7 @@
     <Content Include="Scripts\bootstrap\plugins\bootstrap.js.min.js">
       <DependentUpon>bootstrap.js.js.bundle</DependentUpon>
     </Content>
+    <Content Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.svg" />
     <Content Include="Styles\bootstrap\img\glyphicons-halflings-white.png" />
     <Content Include="Styles\bootstrap\img\glyphicons-halflings.png" />
     <Content Include="Styles\bootstrap\less\bootstrap.css">
@@ -111,6 +112,10 @@
     <None Include="Scripts\bootstrap\plugins\bootstrap.js.min.js.map">
       <DependentUpon>bootstrap.js.js.bundle</DependentUpon>
     </None>
+    <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.eot" />
+    <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.otf" />
+    <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.ttf" />
+    <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.woff" />
     <None Include="Styles\bootstrap\less\accordion.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
@@ -163,14 +168,17 @@
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
+    <None Include="Styles\bootstrap\less\glyphicons.less" />
     <None Include="Styles\bootstrap\less\grid.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
+    <None Include="Styles\bootstrap\less\jumbotron.less" />
     <None Include="Styles\bootstrap\less\labels.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
+    <None Include="Styles\bootstrap\less\media.less" />
     <None Include="Styles\bootstrap\less\mixins.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
@@ -187,6 +195,7 @@
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
+    <None Include="Styles\bootstrap\less\normalize.less" />
     <None Include="Styles\bootstrap\less\pager.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
@@ -199,10 +208,12 @@
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
+    <None Include="Styles\bootstrap\less\print.less" />
     <None Include="Styles\bootstrap\less\progress-bars.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
     </None>
+    <None Include="Styles\bootstrap\less\responsive-utilities.less" />
     <None Include="Styles\bootstrap\less\scaffolding.less">
       <Compile>False</Compile>
       <Minify>False</Minify>
