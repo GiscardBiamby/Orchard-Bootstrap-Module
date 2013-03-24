@@ -59,6 +59,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Scripts\bootstrap\plugins\bootstrap-affix.js" />
     <Content Include="Scripts\bootstrap\plugins\bootstrap-alert.js" />
     <Content Include="Scripts\bootstrap\plugins\bootstrap-button.js" />
     <Content Include="Scripts\bootstrap\plugins\bootstrap-carousel.js" />
