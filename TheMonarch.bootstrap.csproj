@@ -71,11 +71,11 @@
     <Content Include="Scripts\bootstrap\plugins\bootstrap-tooltip.js" />
     <Content Include="Scripts\bootstrap\plugins\bootstrap-transition.js" />
     <Content Include="Scripts\bootstrap\plugins\bootstrap-typeahead.js" />
-    <Content Include="Scripts\bootstrap\plugins\bootstrap.js.js">
-      <DependentUpon>bootstrap.js.js.bundle</DependentUpon>
+    <Content Include="Scripts\bootstrap\plugins\bootstrap.js">
+      <DependentUpon>bootstrap.js.bundle</DependentUpon>
     </Content>
-    <Content Include="Scripts\bootstrap\plugins\bootstrap.js.min.js">
-      <DependentUpon>bootstrap.js.js.bundle</DependentUpon>
+    <Content Include="Scripts\bootstrap\plugins\bootstrap.min.js">
+      <DependentUpon>bootstrap.js.bundle</DependentUpon>
     </Content>
     <Content Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.svg" />
     <Content Include="Styles\bootstrap\img\glyphicons-halflings-white.png" />
@@ -108,10 +108,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Scripts\bootstrap\plugins\bootstrap.js.js.bundle" />
-    <None Include="Scripts\bootstrap\plugins\bootstrap.js.min.js.map">
-      <DependentUpon>bootstrap.js.js.bundle</DependentUpon>
-    </None>
+    <None Include="Scripts\bootstrap\plugins\bootstrap.js.bundle" />
     <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.eot" />
     <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.otf" />
     <None Include="Styles\bootstrap\fonts\glyphiconshalflings-regular.ttf" />
