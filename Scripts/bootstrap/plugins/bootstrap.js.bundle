@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle minify="true" runOnBuild="true">
+  <!--The order of the <file> elements determines the order of them when bundled.-->
+  <file>/Scripts/bootstrap/plugins/bootstrap-alert.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-button.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-carousel.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-collapse.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-dropdown.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-modal.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-popover.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-scrollspy.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-tab.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-tooltip.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-transition.js</file>
+  <file>/Scripts/bootstrap/plugins/bootstrap-typeahead.js</file>
+</bundle>
