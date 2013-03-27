@@ -1,5 +1,4 @@
-﻿///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-alert.js
-/* ==========================================================
+﻿/* ==========================================================
  * bootstrap-alert.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#alerts
  * ==========================================================
@@ -98,7 +97,6 @@
   $(document).on('click.alert.data-api', dismiss, Alert.prototype.close)
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-button.js
 /* ============================================================
  * bootstrap-button.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#buttons
@@ -204,7 +202,6 @@
   })
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-carousel.js
 /* ==========================================================
  * bootstrap-carousel.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#carousel
@@ -412,7 +409,6 @@
   })
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-collapse.js
 /* =============================================================
  * bootstrap-collapse.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#collapse
@@ -580,7 +576,6 @@
   })
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-dropdown.js
 /* ============================================================
  * bootstrap-dropdown.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#dropdowns
@@ -747,7 +742,6 @@
 
 }(window.jQuery);
 
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-modal.js
 /* =========================================================
  * bootstrap-modal.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#modals
@@ -1000,7 +994,6 @@
 
 }(window.jQuery);
 
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-popover.js
 /* ===========================================================
  * bootstrap-popover.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#popovers
@@ -1116,7 +1109,6 @@
 
 }(window.jQuery);
 
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-scrollspy.js
 /* =============================================================
  * bootstrap-scrollspy.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#scrollspy
@@ -1279,7 +1271,6 @@
   })
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-tab.js
 /* ========================================================
  * bootstrap-tab.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#tabs
@@ -1424,7 +1415,6 @@
   })
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-tooltip.js
 /* ===========================================================
  * bootstrap-tooltip.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#tooltips
@@ -1787,7 +1777,6 @@
 
 }(window.jQuery);
 
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-transition.js
 /* ===================================================
  * bootstrap-transition.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#transitions
@@ -1848,7 +1837,6 @@
   })
 
 }(window.jQuery);
-///#source 1 1 /Scripts/bootstrap/plugins/bootstrap-typeahead.js
 /* =============================================================
  * bootstrap-typeahead.js v3.0.0
  * http://twitter.github.com/bootstrap/javascript.html#typeahead
